@@ -93,18 +93,18 @@ Imagenes y videos de seciones actuales de 2° Bachillerato
 	        <!--p align="rigth">MINED -->
     <a href="#">MISION</a>
     <a href="#">VISION</a>
-	<a href="https://www.nintendo.com/us/">TecPEREZ</a>
+	<a href="https://www.nintendo.com/us/">MENDEZ</a>
     <a href=""></a>
   </div>
   <!-- cuerpo de la pagina -->
   <div class="row">`
     <div class="row__column side">
       <h2>QUE CREES TU</h2>
-      <p> Enrique pensar en nada  lo digo con potestad.</p>
+      <p> ESCUELA O PAIS.</p>
     </div>
     <div class="row__column middle">
-      <h2>Columna 2</h2>
-      <p>Lorem, No lo creo es insultante</p>
+      <h2>De quien hablan 2</h2>
+      <p>Lorem, Escuela</p>
     </div>
     <div class="row__column side">
       <h2>Columna 3</h2>
